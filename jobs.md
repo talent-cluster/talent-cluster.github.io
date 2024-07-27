@@ -3,13 +3,22 @@
 If you contact us first, please mention which of the following positions are of interest to you:
 
 1. Web developer
-2. Quality Engineer
-3. DevOps
-4. Security Engineer
-5. Network Engineer
-6. Project Manager
-7. Sales Representative
-8. Business Analyst
+1. Mobile app developer
+1. Embedded software engineer
+1. Data Engineer
+1. Cloud Engineer
+1. Quality Engineer
+1. UI/UX Designer
+1. Security Engineer
+1. Network Engineer
+
+Contrary to the above positions, the positions below do not have an assessment so it is important if you can highlight any prior experience in the specific position:
+
+1. Project Manager
+1. Product Owner
+1. Scrum Master
+1. Sales Representative
+1. Business Analyst
 
 # What to expect
 
