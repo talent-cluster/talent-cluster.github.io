@@ -11,6 +11,7 @@ If you contact us first, please mention which of the following positions are of 
 1. UI/UX Designer
 1. Security Engineer
 1. Network Engineer
+1. Tech Recruiter
 
 Contrary to the above positions, the positions below do not have an assessment so it is important if you can highlight any prior experience in the specific position:
 
@@ -19,6 +20,7 @@ Contrary to the above positions, the positions below do not have an assessment s
 1. Scrum Master
 1. Sales Representative
 1. Business Analyst
+1. Recruiter
 
 # What to expect
 
