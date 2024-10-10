@@ -1,6 +1,6 @@
 # Positions
 
-If you contact us first, please mention which of the following positions are of interest to you:
+To explore job opportunities with our clients, please visit our careers page [here](https://www.newjobs.gr/company/67039416f3a965ddb80caf71/jobs-at-talent-cluster). Positions posted on behalf of our clients are clearly identified at the beginning of each job description. If no suitable roles are currently listed, you can still book a free consultation for any of the following positions, and we'll notify you when relevant opportunities arise:
 
 1. Web developer
 1. Mobile app developer
@@ -12,17 +12,11 @@ If you contact us first, please mention which of the following positions are of 
 1. Security Engineer
 1. Network Engineer
 
-Contrary to the above positions, the positions below do not have an assessment so it is important if you can highlight any prior experience in the specific position:
+Note, the above roles require a 7-days technical assignment starting at a time of your choice.
 
-1. Project Manager
-1. Product Owner
-1. Scrum Master
-1. Sales Representative
-1. Business Analyst
+Unless explictly stated, the positions our clients have opened are full time, fully remote and require professional work experience in english.
 
-## What to expect
-
-Our clients have opened various positions. Unless explictly stated, the positions are full time, fully remote and require professional work experience in english.
+We collect the following information so that you don't have to waste your time:
 
 ## Client characteristics
 
@@ -55,6 +49,12 @@ Any limitations or preferences in terms of:
 1. Degrees
 1. Certifications
 
+## A clear process
+
+At Talent Cluster, we're committed to helping you showcase your value and secure the best opportunities available. If your application isn't successful, rest assured you'll receive clear communication and valuable feedback to help you grow.
+
+Your success is our priority, and we are with you every step of the way.
+
 # About us
 
-To learn more about our company values and explore career opportunities with us, please visit our careers page [here](https://www.newjobs.gr/company/67039416f3a965ddb80caf71/jobs-at-talent-cluster). Positions posted on behalf of our clients are clearly indicated with the phrase: 'On behalf of our clients, we are seeking...'."
+To learn more about our company values and explore career opportunities with us, please visit our careers page [here](https://www.newjobs.gr/company/67039416f3a965ddb80caf71/jobs-at-talent-cluster). 
