@@ -11,7 +11,6 @@ If you contact us first, please mention which of the following positions are of 
 1. UI/UX Designer
 1. Security Engineer
 1. Network Engineer
-1. Tech Recruiter
 
 Contrary to the above positions, the positions below do not have an assessment so it is important if you can highlight any prior experience in the specific position:
 
@@ -20,9 +19,8 @@ Contrary to the above positions, the positions below do not have an assessment s
 1. Scrum Master
 1. Sales Representative
 1. Business Analyst
-1. Recruiter
 
-# What to expect
+## What to expect
 
 Our clients have opened various positions. Unless explictly stated, the positions are full time, fully remote and require professional work experience in english.
 
@@ -56,3 +54,7 @@ Any limitations or preferences in terms of:
 1. Years Of Experience in the specific position
 1. Degrees
 1. Certifications
+
+# About us
+
+To learn more about our company values and explore career opportunities with us, please visit our careers page [here](https://www.newjobs.gr/company/67039416f3a965ddb80caf71/jobs-at-talent-cluster). Positions posted on behalf of our clients are clearly indicated with the phrase: 'On behalf of our clients, we are seeking...'."
