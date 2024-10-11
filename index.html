@@ -289,39 +289,58 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Google Analytics / GTM scripts will go here -->
 <script>
-    // Display the cookie consent banner
+    // Initialize Google Analytics with Consent Mode
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // Default consent mode
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied'
+    });
+
+    // Load Google Analytics
+    gtag('js', new Date());
+    gtag('config', 'G-04P6FNB5QP', {
+        'anonymize_ip': true
+    });
+
+    // Display consent banner on page load
     window.onload = function() {
-        // Show the cookie consent banner if no consent is provided
         if (!localStorage.getItem('cookieConsent')) {
             document.getElementById('cookieBanner').style.display = 'block';
         }
     };
 
-    // Handle the user clicking "Accept Cookies"
-    document.getElementById('acceptCookies').onclick = function() {
-        // Set consent in localStorage
-        localStorage.setItem('cookieConsent', 'true');
+    // Handle Accept All Cookies button
+    document.getElementById('acceptAllCookies').onclick = function() {
+        // Store consent choice in localStorage
+        localStorage.setItem('cookieConsent', 'all');
+
+        // Update consent mode to allow storage
+        gtag('consent', 'update', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'granted'
+        });
 
         // Hide the consent banner
         document.getElementById('cookieBanner').style.display = 'none';
-
-        // Initialize Google Analytics or other tracking
-        initializeAnalytics();
     };
 
-    // Function to initialize Google Analytics or GTM once consent is given
-    function initializeAnalytics() {
-        // Example: Initialize Google Analytics
-        // You would replace this part with your actual GTM or Google Analytics code
-        console.log('Google Analytics or GTM initialized after consent.');
-        
-        // Add your tracking scripts dynamically if needed
-        // Example for GTM:
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtm.js?id=YOUR_GTM_ID';
-        document.head.appendChild(script);
-    }
+    // Handle Reject Cookies button
+    document.getElementById('rejectCookies').onclick = function() {
+        // Store consent choice in localStorage
+        localStorage.setItem('cookieConsent', 'none');
+
+        // Keep consent mode to denied
+        gtag('consent', 'update', {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied'
+        });
+
+        // Hide the consent banner
+        document.getElementById('cookieBanner').style.display = 'none';
+    };
 </script>
 </body>
 </html>
