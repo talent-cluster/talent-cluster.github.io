@@ -94,7 +94,6 @@
         }
     </style>
     <style>
-        /* Basic styling for the consent banner */
         .cookie-banner {
             position: fixed;
             bottom: 0;
@@ -105,7 +104,7 @@
             padding: 20px;
             text-align: center;
             font-family: Arial, sans-serif;
-            display: none; /* Hidden initially */
+            z-index: 1000;
         }
         .cookie-banner button {
             background-color: #f1c40f;
@@ -280,7 +279,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Consent message banner -->
     <div id="cookieBanner" class="cookie-banner">
         This website uses cookies to improve your experience. By continuing, you consent to our use of cookies.
-        <button id="acceptCookies">Accept Cookies</button>
+        <button id="acceptAllCookies">Accept All Cookies</button>
+        <button id="rejectCookies">Reject Cookies</button>
     </div>
 </footer>
 
